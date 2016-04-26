@@ -9,7 +9,7 @@ DOCUMENTATION_URL =	https://borgbackup.readthedocs.org
 DEFAULT_IMAGE_ARCH =	x86_64
 
 IMAGE_VOLUME_SIZE =	150G
-IMAGE_BOOTSCRIPT =	stable
+IMAGE_BOOTSCRIPT = latest
 IMAGE_NAME =		Borg Server
 
 ## Image tools  (https://github.com/scaleway/image-tools)
